@@ -1,4 +1,5 @@
 #!/bin/bash
+apt install unzip
 mount -t tmpfs tmpfs /tmp/
 cd /tmp
 wget https://download.mikrotik.com/routeros/7.5/chr-7.5.img.zip
