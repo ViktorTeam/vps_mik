@@ -1,0 +1,1 @@
+wget -O - https://raw.githubusercontent.com/ViktorTeam/vps_mik/main/bash.sh | bash
